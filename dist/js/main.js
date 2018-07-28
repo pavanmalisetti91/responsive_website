@@ -31,3 +31,5 @@ function toogleMenu() {
     showMenu = false;
   }
 }
+
+console.log(window.innerWidth);
